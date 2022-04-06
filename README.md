@@ -1,0 +1,2 @@
+# gitalias
+Convenient git aliasses
